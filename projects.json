@@ -1,0 +1,110 @@
+{
+  "1": {
+    "filter": "frontend backend fullstack",
+    "title": "Online Mobile Store (PHP)",
+    "image": "./assets/img/projects/mobilestore.jpg",
+    "url": "https://github.com/fateme-zka/OnlineMobileStore"
+  },
+  "2": {
+    "filter": "backend",
+    "title": "Travel Book Website (PHP)",
+    "image": "./assets/img/projects/travelbook.jpg",
+    "url": "https://github.com/fateme-zka/TravelBook-fullstack-website"
+  },
+  "3": {
+    "filter": "frontend",
+    "title": "Word Scramble Game (Javascript)",
+    "image": "./assets/img/projects/scramblegame.jpg",
+    "url": "https://github.com/fateme-zka/word-scramble-game"
+  },
+  "4": {
+    "filter": "frontend",
+    "title": "Chrome Dinosaur Game (Javascript)",
+    "image": "./assets/img/projects/dino.jpg",
+    "url": "https://github.com/fateme-zka/chrome-dinosaur-game"
+  },
+  "5": {
+    "filter": "frontend",
+    "title": "Quera CV (Javascript)",
+    "image": "./assets/img/projects/queracv.jpg",
+    "url": "https://github.com/fateme-zka/Quera-CV"
+  },
+  "6": {
+    "filter": "frontend",
+    "title": "Tic Tac Toe (Javascript)",
+    "image": "./assets/img/projects/tictactoe.jpg",
+    "url": "https://github.com/fateme-zka/Tic-tac-toe"
+  },
+  "7": {
+    "filter": "frontend",
+    "title": "Rock Paper Scissors Game (Javascript)",
+    "image": "./assets/img/projects/rockscissorspaper.jpg",
+    "url": "https://github.com/fateme-zka/rock-paper-scissors-game"
+  },
+  "8": {
+    "filter": "frontend",
+    "title": "Calculator App (Javascript)",
+    "image": "./assets/img/projects/calculator.jpg",
+    "url": "https://github.com/fateme-zka/javascript-calculator"
+  },
+  "9": {
+    "filter": "frontend",
+    "title": "Set Alarm App (Javascript)",
+    "image": "./assets/img/projects/alarm-clock.jpg",
+    "url": "https://github.com/fateme-zka/javascript-set-alarm"
+  },
+  "10": {
+    "filter": "frontend",
+    "title": "Stopwatch App (Javascript)",
+    "image": "./assets/img/projects/stopwatch.jpg",
+    "url": "https://github.com/fateme-zka/javascript-stopwatch"
+  },
+  "11": {
+    "filter": "frontend",
+    "title": "Counter App (Javascript)",
+    "image": "./assets/img/projects/counter.jpg",
+    "url": "https://github.com/fateme-zka/javascript-counter"
+  },
+  "12": {
+    "filter": "frontend",
+    "title": "Color Website",
+    "image": "./assets/img/projects/colorwebsite.jpg",
+    "url": "https://github.com/fateme-zka/Color-Website"
+  },
+  "13": {
+    "filter": "backend fullstack",
+    "title": "Post Blog (Python/Django)",
+    "image": "./assets/img/projects/postblog.jpg",
+    "url": "https://github.com/fateme-zka/post-blog"
+  },
+  "14": {
+    "filter": "backend",
+    "title": "Contact List (Python/Django)",
+    "image": "./assets/img/projects/contactlist.jpg",
+    "url": "https://github.com/fateme-zka/contact-list"
+  },
+  "15": {
+    "filter": "backend",
+    "title": "Simple Chat Room (Python/Django)",
+    "image": "./assets/img/projects/chatroom.jpg",
+    "url": "https://github.com/fateme-zka/django-simple-chat-room"
+  },
+  "16": {
+    "filter": "backend frontend fullstack",
+    "title": "Photo Share (Python/Django)",
+    "image": "./assets/img/projects/photoshare.jpg",
+    "url": "https://github.com/fateme-zka/photo_share"
+  },
+  "17": {
+    "filter": "backend",
+    "title": "Weather Api (Python)",
+    "image": "./assets/img/projects/weatherapp.jpg",
+    "url": "https://github.com/fateme-zka/weather"
+  },
+  "18": {
+    "filter": "backend",
+    "title": "To Do List (Python/Django)",
+    "image": "./assets/img/projects/todolist.jpg",
+    "url": "https://github.com/fateme-zka/todo_list"
+  }
+}
